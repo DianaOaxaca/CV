@@ -71,12 +71,26 @@ Investigación %>%
 
 \footnotesize
 \setlength{\leftskip}{0cm}
+**2024**
+
+\setlength{\leftskip}{1cm}
+
+**Hernández-Oaxaca, D.**, Sánchez-Camargo V., Ángeles-Argáiz, R. E., Miranda-Perkins K. and Martínez-Romero, E. (2024). The genome of Comadia redtenbacheri, an Agave specialist phytophagous moth with cultural and food value. Genome Biology and Evolution (enviado).
+
+González-Román P., **Hernández-Oaxaca D.**, Bustamante-Brito R. and Martínez-Romero E. (2024). The mycobiota from the carmine cochineal Dactylopius coccus have a role in digestion. Insects (aceptado).
+
+
+Ángeles-Argáiz, R. E., Aguirre-Beltrán, L. F. L., **Hernández-Oaxaca, D.**, Quintero-Corrales, C., Trujillo-Roldán, M. A., Castillo-Ramírez, S., & Garibay-Orijel, R. (2024). Assembly collapsing versus heterozygosity oversizing: detection of **homokaryotic and heterokaryotic Laccaria trichodermophora** strains by **hybrid genome assembly**. Microbial Genomics, 10(3), 001218
+
+Flores-Almaraz, V. S., Truong, C., **Hernández-Oaxaca, D.**, Reyes-Galindo, V., Mastretta-Yanes, A., Jaramillo-Correa, J. P., & Salas-Lizana, R. (2024). Foliar **mycobiome** remains unaltered under urban air-pollution but **differentially express** stress-related genes. Microbial Ecology, 87(1), 1-17
+
+
+\setlength{\leftskip}{0cm}
 **2023**
 
 \setlength{\leftskip}{1cm}
-Rodolfo Enrique Ángeles‐Argáiz; **Diana Hernández‐Oaxaca**; Luis Fernando Lozano Aguirre‐Beltrán; Christian Quintero‐Corrales;Mauricio Trujillo‐Roldán; Santiago Castillo‐Ramírez; Roberto Garibay. (2023). *Microbial Genomics*. MGEN‐D‐23‐00296 (Enviado)
 
-Rosario Ramírez‐Mendoza, Rodolfo Ángeles‐Argáiz, Luis Lozano‐Aguirre Beltrán, Juan Almaraz, **Diana Hernandez‐Oaxaca**, Ivette Ortiz‐Lopez, and Jesus Perez‐Moreno. Whole‐genome sequence of *Pseudomonas yamanorum* OLsAu1 isolated from the edible ectomycorrhizal mushroom *Lactarius* sp. section Deliciosi. MRA00843‐23R1 (2023) (In press)
+Rosario Ramírez‐Mendoza, Rodolfo Ángeles‐Argáiz, Luis Lozano‐Aguirre Beltrán, Juan Almaraz, **Diana Hernandez‐Oaxaca**, Ivette Ortiz‐Lopez, and Jesus Perez‐Moreno. Whole‐genome sequence of *Pseudomonas yamanorum* OLsAu1 isolated from the edible ectomycorrhizal mushroom *Lactarius* sp. section Deliciosi. MRA00843‐23R1 (2023)
 
 López‐Sánchez, R., **Hernández‐Oaxaca D.**, Escobar‐Zepeda A., Ramos‐Cerrillo, B, López‐Munguia, A., Segovia‐Forcella, L. “Analysing the dynamics of the bacterial community in *pozol*, a Mexican fermented corn dough.” *Microbiology* 169.7 (2023): 001355.
 
@@ -160,6 +174,10 @@ Actualización %>%
                    .protect = FALSE)
 ```
 
+# Créditos
+**Revisiones en revistas**
+
+* Plant and Soil, Springer Nature. 2024
 
 # Habilidades
 **Laboratorio**						
